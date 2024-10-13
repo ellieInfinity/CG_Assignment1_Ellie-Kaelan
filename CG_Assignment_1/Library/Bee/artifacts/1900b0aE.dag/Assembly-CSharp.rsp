@@ -365,6 +365,8 @@
 "Assets/Scripts/LightSwitch.cs"
 "Assets/Scripts/MenuBehaviour.cs"
 "Assets/Scripts/MouseLook.cs"
+"Assets/Scripts/MovingPlatformX.cs"
+"Assets/Scripts/MovingPlatformZ.cs"
 "Assets/Scripts/OrbDeath.cs"
 "Assets/Scripts/OrbSpawning.cs"
 "Assets/Scripts/PlayerController.cs"
